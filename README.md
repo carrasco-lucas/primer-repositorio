@@ -1,2 +1,3 @@
 # primer-repositorio
-primer repositorio en c
+PRIMER COMMIT DE LUQUIUTAS
+
